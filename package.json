@@ -1,0 +1,13 @@
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "description": "simple project to learn using the external packages",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "execute": "node index.js",
+    "list-files": "ls -la"
+  },
+  "author": "",
+  "license": "ISC"
+}
